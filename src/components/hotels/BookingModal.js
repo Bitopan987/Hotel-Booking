@@ -52,7 +52,7 @@ function BookingModel({ hotel, setIsModalOpen, isModalOpen }) {
     alert(
       `You have booked  ${hotel.name} from ${formatDate(
         checkedInDate
-      )} to ${formatDate(checkedInDate)}.`
+      )} to ${formatDate(checkedOutDate)}.`
     );
     navigate('/');
   };

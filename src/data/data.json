@@ -26,11 +26,11 @@
         "city": "Guwahati",
         "address": "Mahipalpur Delhi",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
@@ -42,220 +42,246 @@
         "city": "New Delhi",
         "address": "Karalbagh Delhi",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "4",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/b/hotel-10732347.jpg",
-        "price": 7319,
-        "rate": 5,
-        "city": "Guwahati",
-        "address": "Karalbagh Delhi",
+        "name": "Mumbai Metro",
+        "cover": "https://images.unsplash.com/photo-1631729311503-6cdcfcf2bc93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA3fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "price": 8900,
+        "rate": 4,
+        "city": "Mumbai",
+        "address": "Andheri East",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1631729311503-6cdcfcf2bc93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA3fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
 
       {
         "id": "5",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Residency Hotel",
+        "cover": "https://images.unsplash.com/photo-1609766975297-92f28e2db184?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "price": 7500,
         "rate": 3,
-        "city": "New Delhi",
+        "city": "Dehradun",
         "address": "Karalbagh Delhi",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1609766975297-92f28e2db184?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "6",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
+        "name": "Hotel Fortune",
+        "cover": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "price": 7319,
         "rate": 3,
         "city": "Guwahati",
-        "address": "Karalbagh Delhi",
+        "address": "Chandmari,GS Road",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "7",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Hotel KumKum",
+        "cover": "https://images.unsplash.com/photo-1621293954908-907159247fc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 8000,
         "rate": 1,
-        "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "city": "Mumbai",
+        "address": "South Mumbai",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "8",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Hotel Magnet",
+        "cover": "https://images.unsplash.com/photo-1594563703937-fdc640497dcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 6619,
         "rate": 1,
-        "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "city": "Dehradun",
+        "address": "Jolly Grant ",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1594563703937-fdc640497dcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "9",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Hotel Godwin",
+        "cover": "https://images.unsplash.com/photo-1631049035581-bec13f40dfff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 7500,
         "rate": 2,
-        "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "city": "Mumbai",
+        "address": "North Mumbai",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1631049035581-bec13f40dfff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "10",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "The Lalit",
+        "cover": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 8000,
         "rate": 4,
         "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "address": "Mahipalpur",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "11",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Hotel Accord",
+        "cover": "https://images.unsplash.com/photo-1611892441796-ae6af0ec2cc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 6000,
         "rate": 5,
-        "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "city": "Guwahati",
+        "address": "Hatigaon",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1611892441796-ae6af0ec2cc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "12",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "The Leela",
+        "cover": "https://images.unsplash.com/photo-1584132915807-fd1f5fbc078f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 9800,
         "rate": 1,
-        "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "city": "Mumbai",
+        "address": "Mumbai Airport",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1584132915807-fd1f5fbc078f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "13",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Metro Palace",
+        "cover": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 10000,
         "rate": 2,
-        "city": "New Delhi",
+        "city": "Dehradun",
         "address": "Karalbagh Delhi",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "14",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Hotel Meriton",
+        "cover": "https://images.unsplash.com/photo-1584132905271-512c958d674a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE5fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "price": 7200,
         "rate": 5,
         "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "address": "Mahipalpur",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1584132905271-512c958d674a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE5fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "15",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
-        "price": 7319,
+        "name": "Hotel Manama",
+        "cover": "https://images.unsplash.com/photo-1603072387865-e48a022fc541?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIxfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "price": 5000,
         "rate": 4,
-        "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "city": "Dehradun",
+        "address": "Rishikesh",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1603072387865-e48a022fc541?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIxfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       },
       {
         "id": "16",
-        "name": "Hotel Classic",
-        "cover": "https://thumbs.dreamstime.com/z/hotel-bed-room-21064950.jpg",
+        "name": "Hotel Bentley",
+        "cover": "https://images.unsplash.com/photo-1631049307305-1ceea96fb0e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI5fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "price": 7319,
         "rate": 1,
-        "city": "New Delhi",
-        "address": "Karalbagh Delhi",
+        "city": "Mumbai",
+        "address": "Churchgate",
         "images": [
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg",
-          "https://pbs.twimg.com/media/B3B6A-7CUAAjarl.jpg"
+          "https://images.unsplash.com/photo-1631049307305-1ceea96fb0e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI5fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        ]
+      },
+      {
+        "id": "16",
+        "name": "Hotel Kalpana",
+        "cover": "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 7319,
+        "rate": 1,
+        "city": "Guwahati",
+        "address": "Guwahati Airport",
+        "images": [
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1625244695851-1fc873f942bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1608198399988-341f712c3711?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1552566626-2d907dab0dff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA4fHxob3RlbCUyMHJvb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         ]
       }
     ]

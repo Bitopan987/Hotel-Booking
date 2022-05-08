@@ -5,12 +5,13 @@ import Loader from '../common/Loader';
 import BookingModel from './BookingModal';
 import ImageCarousel from '../common/ImageCarousel';
 import Button from '@mui/material/Button';
+import Rating from '@mui/material/Rating';
 
 function Hotel() {
   const [hotel, setHotel] = useState();
   const [isModalOpen, setIsModalOpen] = useState(false);
   const HOTELS = data[0].hotelData;
-  const { id, slug } = useParams();
+  const { id } = useParams();
 
   useEffect(() => {
     const hotel = HOTELS.find((hotel) => hotel.id === id);
@@ -33,6 +34,11 @@ function Hotel() {
       <div className="shadow">
         <ImageCarousel hotel={hotel} />
         <div className="p-4 border-t border-grey-100 bg-white">
+          <Rating name="read-only" value={hotel.rate} readOnly />
+          <div className="flex justify-between pb-4">
+            <address>{hotel.address}</address>
+            <h3>₹ {hotel.price}</h3>
+          </div>
           <p>
             {hotel.name} Hotel & Spa is a family-friendly hotel that offers a
             wide range of accommodation types, from rooms to suites. All this in

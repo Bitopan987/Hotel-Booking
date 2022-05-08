@@ -7,7 +7,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import {
   setCheckedInDate,
   setCheckedOutDate,
-  setTravellersCount,
+  setGuestsCount,
 } from '../../redux/bookingSlice';
 
 import TextField from '@mui/material/TextField';
@@ -38,12 +38,10 @@ const style = {
 function BookingModel({ hotel, setIsModalOpen, isModalOpen }) {
   const navigate = useNavigate();
   const booking = useSelector((state) => state.booking);
-  const { checkedInDate, checkedOutDate, travellersCount } = booking;
+  const { checkedInDate, checkedOutDate, guestsCount } = booking;
   const dispatch = useDispatch();
   const userData = useContext(UserContext);
   const { isLoggedIn } = userData;
-
-  console.log(checkedInDate, checkedOutDate, travellersCount);
 
   const handleClose = () => {
     setIsModalOpen(!isModalOpen);
@@ -115,10 +113,10 @@ function BookingModel({ hotel, setIsModalOpen, isModalOpen }) {
                         <Select
                           labelId="demo-simple-select-label"
                           id="demo-simple-select"
-                          value={travellersCount}
+                          value={guestsCount}
                           label="Guest"
                           onChange={(e) =>
-                            dispatch(setTravellersCount(e.target.value))
+                            dispatch(setGuestsCount(e.target.value))
                           }
                         >
                           {GUEST_OPTIONS.map((data) => (

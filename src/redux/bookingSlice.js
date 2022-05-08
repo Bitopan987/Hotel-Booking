@@ -1,13 +1,18 @@
 import { createSlice } from '@reduxjs/toolkit';
 
-// const initialState = ;
+const tomorrow = () => {
+  const date = new Date();
+  date.setDate(date.getDate() + 1);
+
+  return date;
+};
 
 export const bookingSlice = createSlice({
   name: 'booking',
   initialState: {
-    checkedOutDate: '',
-    checkedInDate: '',
-    travellersCount: '',
+    checkedInDate: new Date(),
+    checkedOutDate: tomorrow(),
+    guestsCount: 1,
     selectedCity: '',
     selectedRate: '',
   },
@@ -18,8 +23,8 @@ export const bookingSlice = createSlice({
     setCheckedOutDate: (state, action) => {
       state.checkedOutDate = action.payload;
     },
-    setTravellersCount: (state, action) => {
-      state.travellersCount = action.payload;
+    setGuestsCount: (state, action) => {
+      state.guestsCount = action.payload;
     },
     setSelectedCity: (state, action) => {
       state.selectedCity = action.payload;
@@ -35,7 +40,7 @@ export const {
   setSelectedRate,
   setCheckedInDate,
   setCheckedOutDate,
-  setTravellersCount,
+  setGuestsCount,
 } = bookingSlice.actions;
 
 export default bookingSlice.reducer;

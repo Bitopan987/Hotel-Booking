@@ -5,7 +5,7 @@ import { GUEST_OPTIONS } from '../utils/constants';
 import {
   setCheckedInDate,
   setCheckedOutDate,
-  setTravellersCount,
+  setGuestsCount,
 } from '../redux/bookingSlice';
 
 import TextField from '@mui/material/TextField';
@@ -21,19 +21,15 @@ import Button from '@mui/material/Button';
 
 function Home() {
   const booking = useSelector((state) => state.booking);
-  const { checkedInDate, checkedOutDate, travellersCount } = booking;
+  const { checkedInDate, checkedOutDate, guestsCount } = booking;
   const dispatch = useDispatch();
 
   return (
-    <div className="text-center hero pt-60  h-screen">
+    <div className="text-center hero pt-60  h-screen hero">
       <h2 className="text-5xl font-bold mb-10 text-gray-600">
         A lifetime of discounts? It's Genius.
       </h2>
-      <p>
-        Get rewarded for your travels – unlock instant savings of 10% or more
-        with a free Booking.com account Sign in / Register
-      </p>
-
+      <p className="text-2xl">Book on India's Largest Hotel Network</p>
       <form>
         <div className="flex item-center justify-center my-8">
           <div>
@@ -63,9 +59,9 @@ function Home() {
                 <Select
                   labelId="demo-simple-select-label"
                   id="demo-simple-select"
-                  value={travellersCount}
+                  value={guestsCount}
                   label="Guest"
-                  onChange={(e) => dispatch(setTravellersCount(e.target.value))}
+                  onChange={(e) => dispatch(setGuestsCount(e.target.value))}
                 >
                   {GUEST_OPTIONS.map((data) => (
                     <MenuItem value={data.value}>{data.label}</MenuItem>
@@ -78,7 +74,7 @@ function Home() {
       </form>
       <NavLink to="/hotels">
         <Button variant="contained" size={'large'}>
-          Search
+          Search Hotels
         </Button>
       </NavLink>
     </div>

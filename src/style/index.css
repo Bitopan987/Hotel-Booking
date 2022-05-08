@@ -6,10 +6,9 @@ body {
   background-color: rgb(248 250 252);
 }
 
-/* 
 .hero {
-  background-image: url('../../public/image/blogging.svg');
+  background-image: url('../../public/image/Vector.svg');
   background-attachment: fixed;
-  background-position: right;
+  background-position: top;
   background-repeat: no-repeat;
-} */
+}

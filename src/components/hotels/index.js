@@ -19,6 +19,7 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
+import Rating from '@mui/material/Rating';
 
 function HotelList() {
   let HOTELS = data[0].hotelData;
@@ -85,7 +86,7 @@ function HotelList() {
                 renderInput={(params) => (
                   <TextField
                     {...params}
-                    label="Search input"
+                    label="Enter Hotel Name"
                     InputProps={{
                       ...params.InputProps,
                       type: 'search',
@@ -118,12 +119,12 @@ function HotelList() {
           <div>
             <Box sx={{ minWidth: 120 }}>
               <FormControl fullWidth>
-                <InputLabel id="demo-simple-select-label">Rate</InputLabel>
+                <InputLabel id="demo-simple-select-label">Rating</InputLabel>
                 <Select
                   labelId="demo-simple-select-label"
                   id="demo-simple-select"
                   value={selectedRate}
-                  label="Rate"
+                  label="Rating"
                   onChange={(e) => onRateChange(e.target.value)}
                 >
                   {RATE_OPTIONS.map((data) => (
@@ -135,7 +136,11 @@ function HotelList() {
           </div>
         </form>
       </header>
-      <main className="pt-6 flex  item-center flex-wrap">
+      <main
+        className={`pt-6 flex  item-center flex-wrap ${
+          hotels.length > 2 ? 'justify-between' : ''
+        }`}
+      >
         {hotels.length ? (
           hotels.map((hotel) => (
             <Card
@@ -150,12 +155,18 @@ function HotelList() {
                   alt={hotel.name}
                 />
                 <CardContent>
+                  <Rating name="read-only" value={hotel.rate} readOnly />
                   <Typography gutterBottom variant="h5" component="div">
                     {hotel.name}
                   </Typography>
-                  <Typography variant="body2" color="text.secondary">
-                    {hotel.address}
-                  </Typography>
+                  <div className="flex justify-between items-center">
+                    <Typography variant="body2" color="text.secondary">
+                      {hotel.address}
+                    </Typography>
+                    <Typography variant="body4" color="text.secondary">
+                      ₹ {hotel.price}
+                    </Typography>
+                  </div>
                 </CardContent>
               </CardActionArea>
             </Card>

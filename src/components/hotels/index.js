@@ -155,7 +155,12 @@ function HotelList() {
                   alt={hotel.name}
                 />
                 <CardContent>
-                  <Rating name="read-only" value={hotel.rate} readOnly />
+                  <Rating
+                    name="read-only"
+                    size={'small'}
+                    value={hotel.rate}
+                    readOnly
+                  />
                   <Typography gutterBottom variant="h5" component="div">
                     {hotel.name}
                   </Typography>
